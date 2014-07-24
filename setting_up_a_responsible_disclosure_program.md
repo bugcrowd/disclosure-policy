@@ -40,4 +40,4 @@ Your policy should be made publicly available on a security-focused page on your
 2. A Hall of Fame is a page that lists researchers who have contributed valid, unique vulnerabilities to your team, and is a form of recognition that costs your team nothing. Researchers take pride in being listed, so make sure to add contributors when appropriate and properly manage your hall of fame.
 
 ##### 8. Fix fast
-1. Make sure you resolve the vulnerability quickly. For most researchers, this is the most important part - Seeing the positive impact of their work.
+1. Make sure you resolve the vulnerability quickly. For most researchers, this is the most important part - seeing the positive impact of their work.
