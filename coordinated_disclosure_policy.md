@@ -1,8 +1,8 @@
-# Responsible Disclosure Policy (Example)
+# Coordinated Disclosure Policy (Example)
 
-[COMPANY] Responsible Disclosure Policy 
+[COMPANY] Coordinated Disclosure Policy 
 
-We take the security of our systems seriously, and we value the security community. The responsible disclosure of security vulnerabilities helps us ensure the security and privacy of our users.
+We take the security of our systems seriously, and we value the security community. The coordinated disclosure of security vulnerabilities helps us ensure the security and privacy of our users.
 
 **Guidelines**  
 
