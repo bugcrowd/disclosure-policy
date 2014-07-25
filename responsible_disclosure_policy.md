@@ -31,7 +31,7 @@ In the interest of the safety of our users, staff, the Internet at large and you
 * Findings from physical testing such as office access (e.g. open doors, tailgating)
 * Findings derived primarily from social engineering (e.g. phishing, vishing)
 * Findings from applications or systems not listed in the ‘Scope’ section
-* Functional, UI and UX bugs and spelling mistakes
+* UI and UX bugs and spelling mistakes
 * Network level Denial of Service (DoS/DDoS) vulnerabilities
 
 Things we do not want to receive: 
