@@ -7,7 +7,7 @@ This Framework is maintained by [Bugcrowd](https://bugcrowd.com) and [CipherLaw]
 
 =============================
 
-Bugcrowd lets companies run vulnerability disclosure programs using our Crowdcontrol platform for free. Crowdcontrol securely manages the vulnerability submission process, all communications with the researcher, and provides an automated Hall of Fame for you to credit those who've helped you. Learn more at [https://bugcrowd.com/products/responsible-disclosure](https://bugcrowd.com/products/responsible-disclosure)
+Bugcrowd lets companies run vulnerability disclosure programs using our Crowdcontrol platform for free. Crowdcontrol securely manages the vulnerability submission process, all communications with the researcher, and provides an automated Hall of Fame for you to credit those who've helped you. Learn more at [https://bugcrowd.com/](https://bugcrowd.com/)
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Open Source Responsible Disclosure Framework</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://bugcrowd.com" property="cc:attributionName" rel="cc:attributionURL">Bugcrowd</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
