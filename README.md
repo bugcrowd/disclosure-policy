@@ -2,6 +2,8 @@
 
 Update (4/27/18) - This repo will be deprecated and the project moved to https://disclose.io over the next few weeks 
 
+Update (10/27/19) - This repo, along with the master JSON for The List, has been moved to https://github.com/disclose/disclose
+
 This Framework is maintained by [Bugcrowd](https://bugcrowd.com) and [CipherLaw](https://www.cipherlawgroup.com/). It is designed to quickly and smoothly prepare your organization to work with the independent security researcher community while reducing the legal risks to researchers and companies. The policy itself has been written with both simplicity and legal completeness in mind.
 
 - [Setting up a Vulnerability Disclosure Program](https://github.com/bugcrowd/disclosure-policy/blob/master/setting_up_a_vulnerability_disclosure_program.md) - A step by step best practices guide on how to setup your program.
