@@ -1,6 +1,6 @@
 ## Welcome to the Open Source Vulnerability Disclosure Framework
 
-Update (4/27/18) - This repo will be deprecated and the project moved to https://disclose.io over the next few weeks 
+Update (4/27/18) - This repo will be deprecated and the project moved and merged with https://github.com/disclose/dioterms over the next few weeks 
 
 Update (10/27/19) - This repo, along with the master JSON for The List, has been moved to https://github.com/disclose/disclose
 
